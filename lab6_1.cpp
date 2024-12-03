@@ -19,7 +19,7 @@ int main(){
         }
     } while (integ != 0);
 
-    cout << "#Even numbers = \n" << evecount;
+    cout << "#Even numbers = " << evecount << "\n";
     cout << "#Odd numbers = "  << oddcount;
 
 
